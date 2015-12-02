@@ -1,3 +1,2 @@
 #!/bin/bash
-cd .desktop
-gtk-launch chrome-mjajljmimedmeianmiglmfdkebpfbded-Default.desktop
+google-chrome --app=https://www.flowdock.com/app/
